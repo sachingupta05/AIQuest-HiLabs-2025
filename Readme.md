@@ -1,6 +1,6 @@
 # HiLabs Provider Data Quality Analytics Platform
 
-**Repo Link:** [https://github.com/your-username/hilabs-hackathon-solution](https://github.com/your-username/hilabs-hackathon-solution)
+**Repo Link:** https://github.com/sachingupta05/AIQuest-HiLabs-2025.git
 
 ## 🚀 Project Overview
 
@@ -45,7 +45,7 @@ Follow these steps to get the platform running locally.
 ### Installation
 1.  **Clone the repository (or create the files manually):**
     ```bash
-    git clone [https://github.com/your-username/hilabs-hackathon-solution.git](https://github.com/your-username/hilabs-hackathon-solution.git)
+    git clone https://github.com/sachingupta05/AIQuest-HiLabs-2025.git
     cd hilabs-hackathon-solution
     ```
 
@@ -69,4 +69,5 @@ Follow these steps to get the platform running locally.
 Once the setup is complete, run the following command in your terminal from the project's root directory:
 
 ```bash
+
 python -m streamlit run app.py
